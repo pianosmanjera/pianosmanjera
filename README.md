@@ -1,72 +1,147 @@
-<h1>Hi, I'm Pianos! <br/><a href="https://github.com/joshmadakor1">GIS Specialist</a>, <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a></h1>
+<h1>Hi, I'm Pianos!<br/>
+  <a href="https://github.com/pianosmanjera">GIS Specialist</a>,
+  <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a>
+</h1>
 
-<h2>🗺️  GIS & Spatial Analysis Projects:</h2>
-<b>- [Flood Hazard Analysis](https://github.com/pianosmanjera/floodhazardmodeling)</b>
-<b>- [Cyclone Hazard Impact Assessment](https://github.com/pianosmanjera/cyclone_impact_assessment)</b>
+<!-- GIS SECTION -->
+<h2>🗺️ GIS & Spatial Analysis Projects:</h2>
 
-<h2>📊  Information Management & Dashboards:</h2>
+<h3>📍 Flood Risk Scorecard – Southern Africa</h3>
+<p>
+  Developed a regional model to classify flood risk using historical events and seasonal forecasts. Used in contingency planning across 12 countries.<br/>
+  <strong>Tools:</strong> ArcGIS Pro, Python, EM-DAT, SARCOF<br/>
+  <strong>Impact:</strong> Enabled early action and asset prepositioning.<br/>
+  <a href="#">[View Map]</a> <a href="#">[Download Method Note]</a>
+</p>
 
+<h3>🌪️ Cyclone Monitoring Dashboard – SWIO</h3>
+<p>
+  Built real-time dashboards integrating cyclone tracks, exposure data, and field reports for WFP in Madagascar, Mozambique, and Malawi.<br/>
+  <strong>Tools:</strong> ArcGIS Online, Kobo Toolbox, Power BI<br/>
+  <strong>Impact:</strong> Improved readiness during 2024–25 cyclone season.<br/>
+  <a href="#">[View Dashboard]</a>
+</p>
 
-<h2>📈   Monitoring & Evaluation Systems:</h2>
+<h3>🎯 School Access Mapping – Zambia</h3>
+<p>
+  Used proximity and vulnerability analysis to support educational planning near ECD centers.<br/>
+  <strong>Tools:</strong> ArcGIS Pro, Geostatistical Tools<br/>
+  <strong>Impact:</strong> Informed school targeting and outreach efforts.<br/>
+  <a href="#">[Map Example]</a>
+</p>
 
+<!-- IM SECTION -->
+<h2>📊 Information Management & Dashboards:</h2>
 
-<h2>🤖   AI, Data Science & Predictive Modeling :</h2>
+<h3>📡 Real-Time Community Feedback System – Sudan & Ethiopia</h3>
+<p>
+  Designed an automated IM pipeline to capture, tag, and report on refugee community feedback in near-real time.<br/>
+  <strong>Tools:</strong> Kobo Toolbox, Power Automate, Power BI<br/>
+  <strong>Impact:</strong> Reduced feedback-to-action time from 5 days to under 24 hours.<br/>
+  <a href="#">[Feedback Dashboard]</a>
+</p>
 
+<h3>🌍 GIS Dashboard for Food Security Analysis – Southern Africa</h3>
+<p>
+  Developed and maintained dashboards tracking food insecurity trends using spatial overlays and vulnerability indices.<br/>
+  <strong>Tools:</strong> ArcGIS Dashboards, GEE, Tableau<br/>
+  <strong>Impact:</strong> Supported operational planning and donor engagement.<br/>
+  <a href="#">[View Dashboard]</a>
+</p>
 
-<h2>⚙️   Automation & Systems Integration:</h2>
+<h3>🗄️ IM Platform Setup for Refugee Operations – UNHCR Nairobi</h3>
+<p>
+  Supported the consolidation and standardization of multisource refugee datasets into a unified IM platform.<br/>
+  <strong>Tools:</strong> Power BI, Kobo, SQL Server, Excel<br/>
+  <strong>Impact:</strong> Enabled streamlined reporting and coordination with partners.<br/>
+  <a href="#">[IM Platform Summary]</a>
+</p>
 
+<!-- M&E SECTION -->
+<h2>📈 Monitoring & Evaluation Systems:</h2>
 
+<h3>📑 M&E Framework Design for Accountability Systems</h3>
+<p>
+  Aligned indicators with sectoral frameworks and digitalized the collection process using Kobo/ODK.<br/>
+  <strong>Tools:</strong> XLSForm, Kobo Toolbox, Power BI<br/>
+  <strong>Impact:</strong> Enhanced consistency and traceability across feedback loops.<br/>
+  <a href="#">[Download XLSForm Sample]</a>
+</p>
 
+<h3>📋 Real-Time Monitoring for Cross-Border Returnees – Ethiopia</h3>
+<p>
+  Implemented a real-time data collection system to monitor returns at border points, with automated dashboards.<br/>
+  <strong>Tools:</strong> Kobo, Power Automate, SharePoint<br/>
+  <strong>Impact:</strong> Provided continuous situational awareness to UNHCR and partners.<br/>
+  <a href="#">[View Report]</a>
+</p>
 
-<h2>👨‍💻 GIS Projects Projects:</h2>
+<h3>📍 Monitoring Displacement in Conflict Zones – Afghanistan</h3>
+<p>
+  Supported data quality, indicator tracking, and rapid M&E reporting in complex humanitarian settings.<br/>
+  <strong>Tools:</strong> Excel, R, Kobo Toolbox<br/>
+  <strong>Impact:</strong> Strengthened evidence base for programmatic decisions in conflict-affected regions.<br/>
+  <a href="#">[Monitoring Snapshot]</a>
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<!-- AI SECTION -->
+<h2>🤖 AI, Data Science & Predictive Modeling:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h3>🧠 AI Dashboard for Ukraine Crisis (Clear Global)</h3>
+<p>
+  Led NLP pipeline design to extract multilingual humanitarian trends from social media and local news for real-time visualization.<br/>
+  <strong>Tools:</strong> Superset, Python (SpaCy, NLTK), Azure<br/>
+  <strong>Impact:</strong> Provided decision support insights across 5 languages.<br/>
+  <a href="#">[Live Demo]</a>
+</p>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h3>🌾 NDVI Anomaly Detection – Madagascar</h3>
+<p>
+  Used Google Earth Engine to analyze vegetation stress across southern Madagascar, overlaying with WFP food security hotspots.<br/>
+  <strong>Tools:</strong> GEE, ArcGIS Pro<br/>
+  <strong>Impact:</strong> Improved early warning triggers for drought-related response.<br/>
+  <a href="#">[NDVI Script]</a>
+</p>
 
-<h2> 🤳 Connect with me:</h2>
+<h3>📊 Forecast-Based Risk Modeling for Flood Events</h3>
+<p>
+  Combined probabilistic flood forecasts with asset exposure to develop a weighted risk matrix and scorecard system.<br/>
+  <strong>Tools:</strong> Python, ArcGIS Pro, EM-DAT<br/>
+  <strong>Impact:</strong> Fed into WFP seasonal preparedness across 7 countries.<br/>
+  <a href="#">[Model Overview]</a>
+</p>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- AUTOMATION SECTION -->
+<h2>⚙️ Automation & Systems Integration:</h2>
+
+<h3>🔄 Kobo → Power BI Automation for Feedback Loops</h3>
+<p>
+  Automated data pipeline to clean, validate, and visualize community feedback data across multiple countries.<br/>
+  <strong>Tools:</strong> Power Automate, Power BI, SharePoint<br/>
+  <strong>Impact:</strong> Institutionalized real-time feedback dashboards.<br/>
+  <a href="#">[System Workflow]</a>
+</p>
+
+<h3>🗂️ Spatial Data Infrastructure Automation – WFP</h3>
+<p>
+  Managed ArcGIS Enterprise publishing workflows, scheduled updates, and permission layers across 12 countries.<br/>
+  <strong>Tools:</strong> ArcGIS Enterprise, Python, SharePoint<br/>
+  <strong>Impact:</strong> Reduced data access friction and improved standardization.<br/>
+  <a href="#">[SDI SOP]</a>
+</p>
+
+<h3>📤 Scheduled Emergency Mapping Report Automation</h3>
+<p>
+  Created a Power BI service that ingests Kobo emergency data and auto-generates PDF reports for key stakeholders.<br/>
+  <strong>Tools:</strong> Power BI Service, PDF Export API, Excel Automation<br/>
+  <strong>Impact:</strong> Saved 8–12 hours per week in manual report generation.<br/>
+  <a href="#">[Example Report]</a>
+</p>
+
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
