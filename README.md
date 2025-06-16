@@ -1,5 +1,22 @@
 <h1>Hi, I'm Pianos! <br/><a href="https://github.com/joshmadakor1">GIS Specialist</a>, <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a></h1>
 
+<h2>🗺️  GIS & Spatial Analysis Projects:</h2>
+- [Flood Hazard Analysis](https://github.com/pianos/floodhazardmodeling)
+
+<h2>📊  Information Management & Dashboards:</h2>
+
+
+<h2>📈   Monitoring & Evaluation Systems:</h2>
+
+
+<h2>🤖   AI, Data Science & Predictive Modeling :</h2>
+
+
+<h2>⚙️   Automation & Systems Integration:</h2>
+
+
+
+
 <h2>👨‍💻 GIS Projects Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
