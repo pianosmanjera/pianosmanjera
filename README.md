@@ -1,7 +1,8 @@
 <h1>Hi, I'm Pianos! <br/><a href="https://github.com/joshmadakor1">GIS Specialist</a>, <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a></h1>
 
 <h2>🗺️  GIS & Spatial Analysis Projects:</h2>
-- [Flood Hazard Analysis](https://github.com/pianos/floodhazardmodeling)
+- [Flood Hazard Analysis](https://github.com/pianosmanjera/floodhazardmodeling)
+- [Cyclone Hazard Impact Assessment](https://github.com/pianosmanjera/cyclone_impact_assessment)
 
 <h2>📊  Information Management & Dashboards:</h2>
 
