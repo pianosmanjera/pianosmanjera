@@ -2,7 +2,7 @@
 
 <h2>🗺️  GIS & Spatial Analysis Projects:</h2>
 <b>- [Flood Hazard Analysis](https://github.com/pianosmanjera/floodhazardmodeling)</b>
-- [Cyclone Hazard Impact Assessment](https://github.com/pianosmanjera/cyclone_impact_assessment)
+<b>- [Cyclone Hazard Impact Assessment](https://github.com/pianosmanjera/cyclone_impact_assessment)</b>
 
 <h2>📊  Information Management & Dashboards:</h2>
 
