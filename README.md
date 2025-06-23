@@ -12,7 +12,7 @@
   Developed a land cover classification workflow using unsupervised pixel-based image classification in ArcGIS Pro. The process involved Landsat multispectral imagery preprocessing, smoothing, unsupervised clustering using ISO Cluster, and class assignment based on the NLCD 2011 schema. Applied convolution filters and raster function chains to enhance data quality before classification. The workflow demonstrates automated spectral clustering with manual class interpretation for thematic map production.<br/>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | Raster Functions | ISO CLuster | NLCD 2011 Schema<br/>
   <strong>Impact:</strong> Enabled efficient land cover mapping and supported rapid classification of large areas with minimal ground data..<br/>
-  <a href="#">[View Map]</a> <a href="#">[Download Method Note]</a>
+  <a <a href="https://1drv.ms/b/c/2a7b6bd5015cfdcf/ESqS6_BHlGlJpM7jtmEjEpYBSxWL9qK5JjbHTqgQaJCfuA?e=0HdPbB">[Download Methodology Note]</a>
 </p>
 
 <h3>🌪️ Cyclone Monitoring Dashboard – SWIO</h3>
