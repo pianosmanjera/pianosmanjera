@@ -1,8 +1,6 @@
-# 🌍 **Pianos Manjera — GIS, Data & Digital Transformation Specialist**
-*Driving data-powered insights for humanitarian action, climate resilience, and emergency response.*
-
+# 🌍 **Pianos G MANJERA — Geospatial & Information Management Specialist**
+*Advancing humaitarian information management, geospatial analysis, data science, and digital innovation to support evidence-based action.*
 ---
-
 ## 👋 **About Me**
 GIS Officer & Information Management Specialist with 8+ years of experience in the humanitarian and development sectors.  
 I specialize in geospatial analysis, hazard modelling, data science, and digital transformation.  
