@@ -1,7 +1,7 @@
 <h1>Hi, I'm Pianos!<br/>
-  <a href="https://github.com/pianosmanjera">GIS, Data & Digital Transformation</a>,
-  <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a>
+  <a href="https://github.com/pianosmanjera">GIS, Data & Digital Transformation Specialist</a>,
 </h1>
+ <a>GIS, Data & Digital Transformation Specialist</a>,
 
 <!-- GIS SECTION -->
 <h2>🗺️ GIS & Spatial Analysis Projects:</h2>
