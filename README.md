@@ -1,12 +1,10 @@
 # 🌍 **Pianos G MANJERA — Geospatial & Information Management Specialist**
-*Advancing humaitarian information management, geospatial analysis, data science, and digital innovation to support evidence-based action.*
+*<h4>Advancing humaitarian information management, geospatial analysis, data science, and digital innovation to support evidence-based action.</h4>*
 ---
 ## 👋 **About Me**
-GIS Officer & Information Management Specialist with 8+ years of experience in the humanitarian and development sectors.  
-I specialize in geospatial analysis, hazard modelling, data science, and digital transformation.  
-I’ve supported WFP, FAO, UNDP, IOM, Clear Global and regional resilience projects across Southern Africa.  
-Passionate about automation, AI-assisted decision support, and building capacity across Africa.
-
+With over 8 years of experience, I specialize in turning complex data into accessible, actionable, and impactful insights for decision-makers and frontline teams. 
+I design practical, scalable solutions—ranging from GIS workflows and flood-risk models to mobile data systems, dashboards, and automation pipelines—that support 
+climate resilience, emergency response, and evidence-based programming across humanitarian and development operations.
 ---
 
 ## 🚀 **What I Do**
