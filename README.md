@@ -1,5 +1,5 @@
 <h1>Hi, I'm Pianos!<br/>
-  <a href="https://github.com/pianosmanjera">GIS Specialist</a>,
+  <a href="https://github.com/pianosmanjera">GIS, Data & Digital Transformation</a>,
   <a href="https://www.linkedin.com/in/pianosmanjera/">Information Management Professional</a>
 </h1>
 
